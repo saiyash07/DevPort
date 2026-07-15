@@ -13,3 +13,5 @@ chmod +x build.sh
 ./build.sh
 ./DevPort &
 ```
+
+MIT License - Copyright (c) 2026 saiyash07
