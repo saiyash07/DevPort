@@ -1,0 +1,9 @@
+# Compiled Binaries
+DevPort
+
+# OS files
+.DS_Store
+
+# Temporary files
+*.tmp
+make_history.py
